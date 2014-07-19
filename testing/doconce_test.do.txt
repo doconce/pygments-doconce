@@ -1,0 +1,34 @@
+======= DocOnce test file =======
+
+===== Computer code =====
+
+Inline verbatim code, as in `import numpy as np`, is allowed, as well as
+code blocks:
+
+!bc pycod
+from math import sin
+
+def f(x):
+    """Example on a function."""
+    return sin(x) + 1
+
+print f(0)
+!ec
+
+===== Mathematics =====
+
+Formulas can be inline, as in $\nabla\cdot\bm{u} = 0$, or typeset
+as equations:
+
+!bt
+\begin{align*}
+\nabla\cdot\bm{u} &= 0,\\
+\bm{u} &= \nabla\phi .
+\end{align*}
+!et
+
+=== Subsubsection heading ===
+
+DocOnce files can have chapters, sections, subsections, and subsubsections.
+
+__Paragraph heading.__ Paragraphs may have headings.
