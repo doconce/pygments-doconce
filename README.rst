@@ -1,9 +1,6 @@
 
-pygments-doconce
-================
-
-Syntax coloring for DocOnce fils
---------------------------------
+pygments-doconce: syntax coloring for DocOnce files
+===================================================
 
 Overview
 --------

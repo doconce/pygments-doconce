@@ -1,10 +1,6 @@
 ## This file is the source of README.rst
 
-======= pygments-doconce =======
-
------------------------------------------
-Syntax coloring for DocOnce fils
------------------------------------------
+======= pygments-doconce: syntax coloring for DocOnce files =======
 
 ===== Overview =====
 
